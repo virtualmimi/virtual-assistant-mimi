@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>VIRTUAL ASSISTANT MIMI</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<section id="header" class="wrapper">
+				<div id="logo">
+					<h1><a href="index.html">VIRTUAL ASSISTANT MIMI</a></h1>
+					<p>Tražiš idealnu VA? ?? Cestitam, pronašla si je!</p>
+				</div>
+
+				<nav id="nav">
+					<ul>
+						<li class="current"><a href="index.html">Pocetna</a></li>
+						<li><a href="#usluge">Usluge</a></li>
+						<li><a href="#o-meni">O meni</a></li>
+<li><a href="#kontakt">Kontakt</a></li>
+					</ul>
+				</nav>
+			</section>
+
+			<!-- Banner / Intro -->
+			<section id="banner" class="wrapper style1 animate__animated animate__fadeIn">
+				<div class="inner">
+					<h2>Spasavam inbox i živce! ????</h2>
+					<p class="style1">
+						Beskrajni mejlovi, haoticni kalendari i misteriozni zadaci koji gutaju vaš dan? 
+						Ne brinite – tu sam da ih ukrotim. Dovoljno ozbiljna da sve obaveze budu završene na vreme, a dovoljno opuštena da vas nasmejem dok rešavam haos!
+					</p>
+					<p class="style2">Vaš haos je moj hobi, a moj hobi uvek pobeduje! ??</p>
+					<ul class="actions">
+						<li><a href="#kontakt" class="button style3 large">Kontaktiraj me</a></li>
+					</ul>
+				</div>
+			</section>
+
+			<!-- Main / Usluge -->
+			<section id="usluge" class="wrapper style2 animate__animated animate__fadeInUp">
+<div class="inner">
+					<div class="title">Moje supermoci ?</div>
+					<div class="container">
+						<div class="feature-list">
+							<div class="row">
+								<div class="col-6 col-12-medium">
+									<section>
+										<h3 class="icon fa-comment">Upravljanje emailom & kalendarom ????</h3>
+										<p>Inbox više nece biti izvor stresa – sve poruke i termini uredno organizovani. Vi pišete, ja cistim haos!</p>
+									</section>
+								</div>
+								<div class="col-6 col-12-medium">
+									<section>
+										<h3 class="icon solid fa-sync">Administracija & organizacija ???</h3>
+										<p>Dokumenti, zadaci i planovi na svom mestu – da vaš posao tece glatko, bez drama i “gde sam ostavila taj fajl?” momenata.</p>
+									</section>
+								</div>
+								<div class="col-6 col-12-medium">
+									<section>
+										<h3 class="icon fa-image">Istraživanje & sadržaj ????</h3>
+										<p>Pronadem informacije i pripremim materijal pre nego što shvatite da vam treba. Ja vidim šta vi ne vidite!</p>
+	</section>
+								</div>
+								<div class="col-6 col-12-medium">
+									<section>
+										<h3 class="icon solid fa-cog">Podrška po meri ??</h3>
+										<p>Prilagodavam se vašim potrebama i željama – profesionalno, ali sa osmehom i malim digitalnim trikovima.</p>
+									</section>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- O meni -->
+			<section id="o-meni" class="wrapper style3 animate__animated animate__fadeInRight">
+				<div class="inner">
+					<div class="title">O meni ??</div>
+					<p>Ja sam Mimi, motivisana i precizna virtualna asistentkinja. Volim da rešavam probleme i da svaki zadatak pretvorim u malo digitalno cudo. Profesionalno radim, ali uvek sa dozom humora – jer posao i osmeh idu ruku pod ruku. Ako volite organizaciju zacinjenu zabavom, kliknite dalje! ??</p>
+				</div>
+			</section>
+
+			<!-- Kontakt -->
+			<section id="kontakt" class="wrapper style1 animate__animated animate__fadeInUp">
+				<div class="inner">
+					<div class="title">Kontakt ??</div>
+					<p>Spremna da vaš digitalni život ucinim jednostavnijim? Javite se i zajedno cemo rešiti haos – uz osmeh! ??</p>
+					<ul class="actions">
+						<li><a href="mailto:tvojemail@domena.com" class="button style3 large">Pošalji poruku</a></li>
+					</ul>
+				</div>
+			</section>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>
+
+
+
